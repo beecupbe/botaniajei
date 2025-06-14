@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 @IFMLLoadingPlugin.MCVersion(ForgeVersion.mcVersion)
-@IFMLLoadingPlugin.Name("CrazyAEPlugin")
+@IFMLLoadingPlugin.Name("BotaniaJEIPlugin")
 @Optional.Interface(iface = "zone.rong.mixinbooter.ILateMixinLoader", modid = "mixinbooter")
 public class BotaniaJeiMixinsCore implements IFMLLoadingPlugin, ILateMixinLoader {
 	public static final String MIXIN_PATH = "mixins.botaniajei.%s.json";
