@@ -1,0 +1,10 @@
+{
+  "package": "dev.beecube31.botaniajei.mixins",
+  "refmap": "mixins.botaniajei.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [],
+  "server": []
+}

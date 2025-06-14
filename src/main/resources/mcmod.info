@@ -1,0 +1,13 @@
+[
+    {
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "This simple addon adds useful information for Botania in JEI.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["beecube31"],
+    "credits": "NekitFbetc",
+    "dependencies": []
+    }
+]
